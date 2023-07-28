@@ -43,6 +43,7 @@
   transform: rotate(-5deg);
 }
 .post-it:hover {
-  width: 30%;
-  transition: width 2s;
+  scale: 1.3;
+  transition: scale 1.5s;
+  z-index: 1;
 }

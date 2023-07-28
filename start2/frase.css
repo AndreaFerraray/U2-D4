@@ -52,14 +52,5 @@ i {
 }
 #third {
   opacity: 0;
-  animation: fadeInOut 5s infinite;
+  animation: fadeInOut 6s infinite;
 }
-/* @keyframes fadeIn {
-  0%,
-  100% {
-    opacity: 0;
-  }
-  50% {
-    opacity: 1;
-  }
-} */
